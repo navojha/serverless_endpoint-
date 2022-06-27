@@ -1,5 +1,5 @@
 
-# DevOps Technical Test
+# 
 
 Serverless endpoint where we can query s3 object lists. 
 
